@@ -1,0 +1,260 @@
+# depslib dependency file v1.0
+1504062893 source:g:\c++\mud\mud\main.cpp
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+	"mudhead.h"
+
+1503652496 g:\c++\mud\mud\head\role\shero.h
+	"Role.h"
+	"head\game\Find_Cow.h"
+	"head\game\Strategy.h"
+
+1504063048 g:\c++\mud\mud\head\role\role.h
+	<bits/stdc++.h>
+	"Role.h"
+
+1504064038 g:\c++\mud\mud\\head\game\find_cow.h
+	"Game.h"
+	"head\point\Point.h"
+
+1503644274 g:\c++\mud\mud\\head\game\game.h
+	<bits/stdc++.h>
+
+1503644526 g:\c++\mud\mud\\head\pont\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1503642164 g:\c++\mud\mud\\head\game\strategy.h
+	"Game.h"
+
+1504064038 g:\c++\mud\mud\head\game\find_cow.h
+	"Game.h"
+	"head\point\Point.h"
+
+1503644274 g:\c++\mud\mud\head\game\game.h
+	<bits/stdc++.h>
+
+1503642164 g:\c++\mud\mud\head\game\strategy.h
+	"Game.h"
+
+1503644526 g:\c++\mud\mud\head\pont\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1503644526 g:\c++\mud\mud\\head\point\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1503644526 g:\c++\mud\mud\head\point\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1504062894 g:\c++\mud\mud\mudhead.h
+	"head/game/Find_Cow.h"
+	"head/game/Strategy.h"
+	"head/map/hub.h"
+	"head/point/Point.h"
+	"head/role/Archer.h"
+	"head/role/Cavalry.h"
+	"head/role/Footman.h"
+	"head/role/Seige.h"
+	"head/role/Shero.h"
+
+1504063291 g:\c++\mud\mud\head\map\hub.h
+	"head/map/map.h"
+	<bits/stdc++.h>
+
+1504064662 g:\c++\mud\mud\\head\map\map.h
+	<bits/stdc++.h>
+	<conio.h>
+
+1504062991 g:\c++\mud\mud\head\role\archer.h
+	"Role.h"
+
+1503652160 g:\c++\mud\mud\head\role\cavalry.h
+
+1503652159 g:\c++\mud\mud\head\role\footman.h
+
+1504063256 g:\c++\mud\mud\head\role\seige.h
+	"Role.h"
+
+1504664081 source:c:\users\1900\desktop\mud-c--master\main.cpp
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+	"mudhead.h"
+
+1504660864 c:\users\1900\desktop\mud-c--master\mudhead.h
+	"../ini_game.cpp"
+	"game/Find_Cow.h"
+	"game/Strategy.h"
+	"point/Point.h"
+	"role/Archer.h"
+	"role/Cavalry.h"
+	"role/Footman.h"
+	"role/Seige.h"
+	"role/Shero.h"
+	"map/map.h"
+	"map/city.h"
+	"map/path_one.h"
+	"map/path_two.h"
+	"role/Hero.h"
+
+1504250718 c:\users\1900\desktop\mud-c--master\head\game\find_cow.h
+	"Game.h"
+	"point\Point.h"
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\game\game.h
+	<bits/stdc++.h>
+
+1504251884 c:\users\1900\desktop\mud-c--master\head\game\strategy.h
+	"Game.h"
+	<bits/stdc++.h>
+
+1504657963 c:\users\1900\desktop\mud-c--master\head\map\hub.h
+	<bits/stdc++.h>
+	"role/Shero.h"
+	"map/map.h"
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\point\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\role\archer.h
+	"Role.h"
+
+1504249711 c:\users\1900\desktop\mud-c--master\head\role\role.h
+	<bits/stdc++.h>
+	"Role.h"
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\role\cavalry.h
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\role\footman.h
+
+1504245162 c:\users\1900\desktop\mud-c--master\head\role\seige.h
+	"Role.h"
+
+1504257104 c:\users\1900\desktop\mud-c--master\head\role\shero.h
+	"Role.h"
+	"game\Find_Cow.h"
+	"game\Strategy.h"
+
+1504666425 c:\users\1900\desktop\mud-c--master\head\map\map.h
+	<bits/stdc++.h>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+
+1504253637 c:\users\1900\desktop\mud-c--master\head\role\hero.h
+	"Role.h"
+
+1504666394 c:\users\1900\desktop\mud-c--master\head\map\city.h
+	<bits/stdc++.h>
+	<conio.h>
+	"map/hub.h"
+	"role/Hero.h"
+
+1504666436 c:\users\1900\desktop\mud-c--master\head\map\path_one.h
+
+1504666445 c:\users\1900\desktop\mud-c--master\head\map\path_two.h
+
+1504660836 source:c:\users\1900\desktop\mud-c--master\ini_game.cpp
+
+1504661161 c:\users\1900\desktop\mud-c--master\ini_game.cpp
+
+1504668754 source:c:\users\yomumax\desktop\mud-c--master\main.cpp
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+	"mudhead.h"
+
+1504669178 c:\users\yomumax\desktop\mud-c--master\mudhead.h
+	"game/Find_Cow.h"
+	"game/Strategy.h"
+	"point/Point.h"
+	"role/Archer.h"
+	"role/Cavalry.h"
+	"role/Footman.h"
+	"role/Seige.h"
+	"role/Shero.h"
+	"map/Map.h"
+	"map/City.h"
+	"map/Path_one.h"
+	"map/Path_two.h"
+	"role/Hero.h"
+
+1504661162 c:\users\yomumax\desktop\mud-c--master\ini_game.cpp
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\game\find_cow.h
+	"Game.h"
+	"point\Point.h"
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\game\game.h
+	<bits/stdc++.h>
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\point\point.h
+	<bits/stdc++.h>
+	<time.h>
+	<windows.h>
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\game\strategy.h
+	"Game.h"
+	<bits/stdc++.h>
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\role\archer.h
+	"Role.h"
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\role\role.h
+	<bits/stdc++.h>
+	"Role.h"
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\role\cavalry.h
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\role\footman.h
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\role\seige.h
+	"Role.h"
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\role\shero.h
+	"Role.h"
+	"game\Find_Cow.h"
+	"game\Strategy.h"
+
+1504668754 c:\users\yomumax\desktop\mud-c--master\head\map\map.h
+	<bits/stdc++.h>
+	<time.h>
+	<cstdlib>
+	<conio.h>
+	<windows.h>
+
+1504669263 c:\users\yomumax\desktop\mud-c--master\head\map\city.h
+	<bits/stdc++.h>
+	<conio.h>
+	"event/Pub.h"
+	"role/Hero.h"
+
+1504657964 c:\users\yomumax\desktop\mud-c--master\head\map\hub.h
+	<bits/stdc++.h>
+	"role/Shero.h"
+	"map/map.h"
+
+1504253638 c:\users\yomumax\desktop\mud-c--master\head\role\hero.h
+	"Role.h"
+
+1504666438 c:\users\yomumax\desktop\mud-c--master\head\map\path_one.h
+
+1504666446 c:\users\yomumax\desktop\mud-c--master\head\map\path_two.h
+
+1504665676 source:c:\users\yomumax\desktop\mud-c--master\untitled1.c
+
+1504668972 c:\users\yomumax\desktop\mud-c--master\head\event\pub.h
+	<bits/stdc++.h>
+	"role/Shero.h"
+	"map/map.h"
+

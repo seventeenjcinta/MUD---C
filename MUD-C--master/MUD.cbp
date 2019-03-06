@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="MUD" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Option virtualFolders="head\role\;" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin/Debug/MUD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Debug/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+					<Add directory="G:/C++/MUD/MUD/" />
+					<Add directory="head" />
+					<Add directory="include" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin/Release/MUD" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj/Release/" />
+				<Option type="1" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+					<Add directory="include" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-fexceptions" />
+		</Compiler>
+		<Unit filename="Mudhead.h" />
+		<Unit filename="Mudhead.h" />
+		<Unit filename="Untitled1.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="head/bag/Bag.h" />
+		<Unit filename="head/event/Event.h" />
+		<Unit filename="head/event/Hospital.h" />
+		<Unit filename="head/event/Pub.h" />
+		<Unit filename="head/game/Find_Cow.h" />
+		<Unit filename="head/game/Game.h" />
+		<Unit filename="head/game/Strategy.h" />
+		<Unit filename="head/map/City.h" />
+		<Unit filename="head/map/Map.h" />
+		<Unit filename="head/map/Path_one.h" />
+		<Unit filename="head/map/Path_two.h" />
+		<Unit filename="head/point/Point.h" />
+		<Unit filename="head/role/Archer.h" />
+		<Unit filename="head/role/Cavalry.h" />
+		<Unit filename="head/role/Footman.h" />
+		<Unit filename="head/role/Hero.h" />
+		<Unit filename="head/role/Role.h" />
+		<Unit filename="head/role/Seige.h" />
+		<Unit filename="head/role/Shero.h" />
+		<Unit filename="ini_game.cpp" />
+		<Unit filename="main.cpp" />
+		<Extensions>
+			<code_completion />
+			<envvars />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
